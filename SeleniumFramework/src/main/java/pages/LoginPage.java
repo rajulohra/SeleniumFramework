@@ -1,6 +1,7 @@
 package pages;
 
 import org.openqa.selenium.*;
+//this is page object model class
 import org.openqa.selenium.support.*;
 
 public class LoginPage {
