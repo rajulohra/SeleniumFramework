@@ -1,6 +1,7 @@
 package base;
 
 import org.openqa.selenium.WebDriver;
+//This is base class for to setup and tear down browser driver
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.*;
 import io.github.bonigarcia.wdm.WebDriverManager;
